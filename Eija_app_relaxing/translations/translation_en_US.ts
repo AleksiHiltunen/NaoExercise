@@ -13,10 +13,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Soitan kappaleen ja sen aikana jokainen</source>
             <comment>Text</comment>
-            <translation type="unfinished">Soitan kappaleen ja sen aikana jokainen</translation>
+            <translation type="obsolete">Soitan kappaleen ja sen aikana jokainen</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Soitan kappaleen ja sen aikana jokainen rauhoittuu hiljaa omalla paikallaan. Soitan kappaleen nyt. </source>
+            <comment>Text</comment>
+            <translation type="unfinished">Soitan kappaleen ja sen aikana jokainen rauhoittuu hiljaa omalla paikallaan. Soitan kappaleen nyt. </translation>
         </message>
     </context>
     <context>
@@ -50,10 +55,15 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Mmmm. Sepäs oli rentouttavaa. Toivottavasti teillekin jäi hyvä mieli. Nyt noustaan seisomaan</source>
             <comment>Text</comment>
-            <translation type="unfinished">Mmmm. Sepäs oli rentouttavaa. Toivottavasti teillekin jäi hyvä mieli. Nyt noustaan seisomaan</translation>
+            <translation type="obsolete">Mmmm. Sepäs oli rentouttavaa. Toivottavasti teillekin jäi hyvä mieli. Nyt noustaan seisomaan</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Sepäs oli rentouttavaa. Toivottavasti teillekin jäi hyvä mieli. Nyt noustaan seisomaan</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sepäs oli rentouttavaa. Toivottavasti teillekin jäi hyvä mieli. Nyt noustaan seisomaan</translation>
         </message>
     </context>
 </TS>
