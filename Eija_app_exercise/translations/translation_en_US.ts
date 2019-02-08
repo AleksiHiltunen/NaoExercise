@@ -32,10 +32,15 @@ Minä ohjaan teille nyt alkulämmittelyjumpan. Näytän ensin tehtävän liikkee
             <translation type="obsolete">Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Hei hei.  </translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Heippa.  </source>
             <comment>Text</comment>
-            <translation type="unfinished">Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Heippa.  </translation>
+            <translation type="obsolete">Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Heippa.  </translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Nyt lepäilen itse sillä välin kun teillä on toista ohjelmaa</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Nyt lepäilen itse sillä välin kun teillä on toista ohjelmaa</translation>
         </message>
     </context>
     <context>
@@ -225,6 +230,12 @@ Minä ohjaan teille nyt alkulämmittelyjumpan. Näytän ensin tehtävän liikkee
             <source>Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Hei hei.  </source>
             <comment>Text</comment>
             <translation type="obsolete">Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Hei hei.  </translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Kiitos</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Kiitos</translation>
         </message>
     </context>
 </TS>

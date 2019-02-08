@@ -26,7 +26,7 @@ Minä ohjaan teille nyt alkulämmittelyjumpan. Näytän ensin tehtävän liikkee
         </message>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Heippa.  </source>
+            <source>Huh huh. Olipas virkistävä jumppa. Kiitos kaikille osallistumisesta. Tämä osuus päättyy nyt. Nyt lepäilen itse sillä välin kun teillä on toista ohjelmaa</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -151,6 +151,12 @@ Minä ohjaan teille nyt alkulämmittelyjumpan. Näytän ensin tehtävän liikkee
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hei</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Kiitos</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
         </message>
     </context>
 </TS>
