@@ -559,7 +559,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="Pushups" id="1" localization="8" tooltip="" x="94" y="433">
+            <Box name="Pushups" id="1" localization="8" tooltip="" x="87" y="558">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -1270,7 +1270,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="Crouch" id="4" localization="8" tooltip="" x="221" y="439">
+            <Box name="Crouch" id="4" localization="8" tooltip="" x="214" y="564">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -1430,7 +1430,7 @@ class MyClass(GeneratedClass):
                 </BehaviorLayer>
               </Timeline>
             </Box>
-            <Box name="Hiproll" id="2" localization="8" tooltip="" x="343" y="443">
+            <Box name="Hiproll" id="2" localization="8" tooltip="" x="336" y="568">
               <bitmap>media/images/box/box-diagram.png</bitmap>
               <script language="4">
                 <content>
@@ -4203,12 +4203,12 @@ class MyClass(GeneratedClass):
             <Link inputowner="13" indexofinput="2" outputowner="11" indexofoutput="4" />
             <Link inputowner="5" indexofinput="2" outputowner="12" indexofoutput="4" />
             <Link inputowner="0" indexofinput="4" outputowner="10" indexofoutput="4" />
-            <Link inputowner="8" indexofinput="2" outputowner="13" indexofoutput="4" />
             <Link inputowner="10" indexofinput="2" outputowner="14" indexofoutput="4" />
             <Link inputowner="17" indexofinput="2" outputowner="5" indexofoutput="4" />
             <Link inputowner="15" indexofinput="2" outputowner="17" indexofoutput="4" />
             <Link inputowner="14" indexofinput="2" outputowner="17" indexofoutput="4" />
             <Link inputowner="11" indexofinput="2" outputowner="0" indexofoutput="2" />
+            <Link inputowner="8" indexofinput="2" outputowner="13" indexofoutput="4" />
           </Diagram>
         </BehaviorKeyframe>
       </BehaviorLayer>
